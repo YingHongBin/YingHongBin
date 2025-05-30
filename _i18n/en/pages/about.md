@@ -23,7 +23,7 @@ Beng Chin's research focuses on **the fundamental data and systems abstractions 
 
 With the ubiquity of Big Data and fusion of applications and technologies, the projects are related in many aspects. Beng Chin approaches research problems and system design with the philosophy that all algorithms and structures should be simple, elegant and yet efficient so that they are implementable, maintainable and scalable in actual applications, and all systems must therefore be efficient, scalable, extensible and easy to use.
 
-**His view and philosophy on administration and setting up a strong database systems group** could be found in 2011 SIGMOD Record interview.
+**His view and philosophy on administration and setting up a strong database systems group** could be found in [2011 SIGMOD Record interview](https://sigmodrecord.org/publications/sigmodRecord/1706/pdfs/06_profiles_Ooi.pdf).
 
 ------------------------------------------
 
